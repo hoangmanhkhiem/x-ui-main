@@ -13,11 +13,11 @@ Hỗ trợ bảng điều khiển xray đa giao thức và nhiều người dùn
 
 # Cài đặt & Nâng cấp
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/hoangmanhkhiem/x-ui/master/install.sh)
 ```
 
 ## Cài đặt và nâng cấp thủ công
-1. Đầu tiên tải xuống gói nén mới nhất từ ​​https://github.com/vaxilu/x-ui/releases, thường chọn kiến ​​trúc `amd64`
+1. Đầu tiên tải xuống gói nén mới nhất từ ​​https://github.com/hoangmanhkhiem/x-ui/releases, thường chọn kiến ​​trúc `amd64`
 2. Sau đó tải gói nén lên thư mục `/ root /` của máy chủ và sử dụng người dùng `root` để đăng nhập vào máy chủ
 
 > Nếu kiến ​​trúc cpu máy chủ của bạn không phải là `amd64`, hãy thay thế` amd64` trong lệnh bằng một kiến ​​trúc khác
@@ -37,7 +37,7 @@ systemctl restart x-ui
 
 ## Cài đặt bằng docker
 
-> Hướng dẫn về docker và hình ảnh về docker này được tạo bởi[Chasing66](https://github.com/Chasing66)提供
+> Hướng dẫn về docker và hình ảnh về docker này được tạo bởi[Chasing66](https://github.com/Chasing66)
 
 1. Cài đặt docker
 ```shell
@@ -71,8 +71,7 @@ x-ui v2-ui
 ``
 
 ## vấn đề đóng lại
-Tất cả các loại vấn đề của Xiaobai đều thấy huyết áp cao
-
+Tất cả các loại vấn đề của x-ui đều ổn
 ## Stargazers theo thời gian
 
 [! [thời gian](https://starchart.cc/vaxilu/x-ui.svg)](https://starchart.cc/vaxilu/x-ui)
