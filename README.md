@@ -72,6 +72,3 @@ x-ui v2-ui
 
 ## vấn đề đóng lại
 Tất cả các loại vấn đề của x-ui đều ổn
-## Stargazers theo thời gian
-
-[! [thời gian](https://starchart.cc/vaxilu/x-ui.svg)](https://starchart.cc/vaxilu/x-ui)
